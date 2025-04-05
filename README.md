@@ -1,4 +1,4 @@
-AI-Powered Text & PDF Analyzer
+## AI-Powered Text & PDF Analyzer
  Smart Tool to Understand and Summarize Your Text
 
 This project uses Google’s Gemini AI and Gradio to help you easily analyze text or documents. Just paste your text or upload a .txt or .pdf file — the AI will do the rest!
